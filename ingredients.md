@@ -1,0 +1,11 @@
+biscuit (4 packs),
+chocolate(2packs),
+flour(1 cup),
+butter(1 teaspoon),
+bakingPowder(1/2 teaspoon),
+candymanFantastic(2 packs),
+milk(1/2 cups),
+chocolateSyrup(1 bottle),
+cherry(1),
+sugar(2 or 3 teaspoon),
+aniseeds and almonds.
